@@ -1,0 +1,143 @@
+<mxfile host="app.diagrams.net" modified="2023-05-23T02:29:15.679Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="jQJ_NS6iF9RDmra0MG56" version="21.3.2" type="device">
+  <diagram name="Trang-1" id="nu7WSlIjDg9NoJS2sYeO">
+    <mxGraphModel dx="1112" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="G1TiDFUjqPO3k-5LADFe-1" value="Module Sim" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="40" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="G1TiDFUjqPO3k-5LADFe-2" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="G1TiDFUjqPO3k-5LADFe-1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="310" y="180" as="sourcePoint" />
+            <mxPoint x="370" y="120" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G1TiDFUjqPO3k-5LADFe-3" value="Check Config" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="120" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="G1TiDFUjqPO3k-5LADFe-4" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="G1TiDFUjqPO3k-5LADFe-3" target="G1TiDFUjqPO3k-5LADFe-14">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="460" y="170" as="sourcePoint" />
+            <mxPoint x="470" y="145" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G1TiDFUjqPO3k-5LADFe-5" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="G1TiDFUjqPO3k-5LADFe-3">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="300" y="220" as="sourcePoint" />
+            <mxPoint x="370" y="200" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G1TiDFUjqPO3k-5LADFe-6" value="Check Disconnect Server" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="350" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G1TiDFUjqPO3k-5LADFe-7" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="369.78" y="390" as="sourcePoint" />
+            <mxPoint x="369.78" y="420" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G1TiDFUjqPO3k-5LADFe-8" value="Send Data Server" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="420" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G1TiDFUjqPO3k-5LADFe-10" value="Kết thúc" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="490" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G1TiDFUjqPO3k-5LADFe-11" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="369.80999999999995" y="460" as="sourcePoint" />
+            <mxPoint x="369.80999999999995" y="490" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G1TiDFUjqPO3k-5LADFe-12" value="0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="425" y="118" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G1TiDFUjqPO3k-5LADFe-13" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="365" y="168" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G1TiDFUjqPO3k-5LADFe-14" value="Config SIM" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="127.5" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="G1TiDFUjqPO3k-5LADFe-16" value="Năm trong RTC" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="200" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="G1TiDFUjqPO3k-5LADFe-17" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="G1TiDFUjqPO3k-5LADFe-16">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="310" y="260" as="sourcePoint" />
+            <mxPoint x="370" y="280" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G1TiDFUjqPO3k-5LADFe-18" value="Lấy thời gian từ RTC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="280" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G1TiDFUjqPO3k-5LADFe-19" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="G1TiDFUjqPO3k-5LADFe-18" target="G1TiDFUjqPO3k-5LADFe-6">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="320" y="340" as="sourcePoint" />
+            <mxPoint x="420" y="340" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G1TiDFUjqPO3k-5LADFe-20" value="Khác 0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="248" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G1TiDFUjqPO3k-5LADFe-21" value="Hỏi thời gian &quot;AT+CCLK?&quot; và nạp vào RTC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="195" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G1TiDFUjqPO3k-5LADFe-22" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="G1TiDFUjqPO3k-5LADFe-16" target="G1TiDFUjqPO3k-5LADFe-21">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="210" y="250" as="sourcePoint" />
+            <mxPoint x="310" y="250" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G1TiDFUjqPO3k-5LADFe-25" value="Hoàn thành lấy thời gian" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="275" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="G1TiDFUjqPO3k-5LADFe-26" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="G1TiDFUjqPO3k-5LADFe-21">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="120" y="470" as="sourcePoint" />
+            <mxPoint x="190" y="280" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G1TiDFUjqPO3k-5LADFe-27" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="G1TiDFUjqPO3k-5LADFe-25" target="G1TiDFUjqPO3k-5LADFe-18">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="260" y="270" as="sourcePoint" />
+            <mxPoint x="360" y="270" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G1TiDFUjqPO3k-5LADFe-28" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="G1TiDFUjqPO3k-5LADFe-25" target="G1TiDFUjqPO3k-5LADFe-10">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="140" y="390" as="sourcePoint" />
+            <mxPoint x="240" y="430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="190" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G1TiDFUjqPO3k-5LADFe-29" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="285" y="268" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G1TiDFUjqPO3k-5LADFe-30" value="0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="185" y="328" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G1TiDFUjqPO3k-5LADFe-35" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="G1TiDFUjqPO3k-5LADFe-14" target="G1TiDFUjqPO3k-5LADFe-10">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="530" y="250" as="sourcePoint" />
+            <mxPoint x="630" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="540" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
